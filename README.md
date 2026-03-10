@@ -14,4 +14,4 @@ A modern calculator built using **HTML, CSS, and JavaScript**.
 - JavaScript
 
 ## Live Demo
-https://github.io/Ridwan181489/calculator-code
+https://github.io/Ridwan181489/Calculator-code
